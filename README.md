@@ -45,11 +45,11 @@ BloodBridge is a comprehensive web-based platform designed to facilitate blood d
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github().
+3. Download project from github(https://github.com/Sayanshit01/Blood-Bridge_Solutions-Website).
 
    OR follow gitbash commands <br>
      ```t
-         i>cd C:\\xampp\htdocs\
+         i>cd C:\\xampp\htdocs\https://github.com/Sayanshit01/Blood-Bridge_Solutions-Website
         ii>git clone 
      
      
@@ -76,12 +76,6 @@ BloodBridge is a comprehensive web-based platform designed to facilitate blood d
 
 - [@sayanshit01](https://www.github.com/sayanshit01)
 
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Color Reference
 
